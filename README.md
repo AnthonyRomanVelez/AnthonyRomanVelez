@@ -1,6 +1,6 @@
 ### Hi there 👋 
-#### My name is Anthony Roman Velez, I'm currently on my Senior year at National University working on my Computer Science degree.
-#### Here I have some of my personal projects and assignments, I'm always looking for ways to improve my coding skills and trying to think outside the box.
+### My name is Anthony Roman Velez, I'm currently on my Senior year at National University working on my Computer Science degree.
+### Here I have some of my personal projects and assignments, I'm always looking for ways to improve my coding skills and trying to think outside the box😄.
 
 <!--
 **AnthonyRomanVelez/AnthonyRomanVelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
