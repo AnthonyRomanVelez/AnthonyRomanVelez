@@ -3,11 +3,9 @@
 ### Here I have some of my personal projects and assignments, I'm always looking for ways to improve my coding skills and trying to think outside the box😄.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
-
-
 ![Anurag's GitHub stats](https://github.com/AnthonyRomanVelez/AnthonyRomanVelez/blob/main/My%20project-1.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
 <!--
 **AnthonyRomanVelez/AnthonyRomanVelez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
