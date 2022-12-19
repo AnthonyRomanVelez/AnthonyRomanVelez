@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
-##Skills and Experience:
+## Skills and Experience:
 [programming languages/c++.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/commit/bbbf443d051d23f532a2474734dc80173cf32a48)
 
 <!--
