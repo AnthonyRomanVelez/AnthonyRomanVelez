@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
 
-https://github.com/AnthonyRomanVelez/AnthonyRomanVelez/blob/main/My%20project-1.png
+![Anurag's GitHub stats](https://github.com/AnthonyRomanVelez/AnthonyRomanVelez/blob/main/My%20project-1.png)
 
 
 <!--
