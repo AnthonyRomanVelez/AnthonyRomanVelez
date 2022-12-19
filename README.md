@@ -6,10 +6,11 @@
 ### My name is Anthony, I'm currently on my Senior year at National University working on my Computer Science degree.
 ### Here I have some of my personal projects and assignments, I'm always looking for ways to improve my coding skills and trying to think outside the box😄.
 
+#
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
-#
-#
+##
+
 
 #### Languages and Tools:
 
