@@ -8,6 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
+#
+
 #### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />                 
