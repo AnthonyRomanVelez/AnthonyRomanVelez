@@ -9,8 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyRomanVelez&show_icons=true&theme=dark)
 
 ## Skills and Experience:
-@@ -0,0 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
+
+
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
